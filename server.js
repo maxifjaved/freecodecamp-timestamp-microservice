@@ -4,7 +4,7 @@ var app = express();
 
 app.get('/', function(req, res){
     res.writeHead(200,{'Content-Type':'text/html'});
-	res.end("<h1>Free Code Camp - Time Stamp Microservice </h1><h3>Project Details</h3><p>You can convert natual Date to unixTimestamp and  vise versa</p><h3>You can test the following URL</h3><code>http://localhost:8000/Dec,%2020,%202016</code><br /><code>http://localhost:8000/1482174000</code>");
+	res.end("<h1>Free Code Camp - Time Stamp Microservice </h1><h3>Project Details</h3><p>You can convert natual Date to unixTimestamp and  vise versa</p><h3>You can test the following URL</h3><code>https://freecodecamp-timestamp-microservice-maxifjaved.c9users.io/Dec,%2020,%202016</code><br /><code>https://freecodecamp-timestamp-microservice-maxifjaved.c9users.io/1482174000</code>");
 	//<div>
 		// <h1>Free Code Camp - Time Stamp Microservice </h1>
 		// <h3>Project Details</h3>
