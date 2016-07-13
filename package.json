@@ -1,0 +1,14 @@
+{
+  "name": "freecodecamp-timestamp-microservice",
+  "version": "1.0.0",
+  "description": "freecodecamp-timestamp-microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "maxifjaved",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
